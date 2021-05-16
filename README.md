@@ -1,6 +1,10 @@
 # news_app
 
-A new Flutter project.
+A new Flutter assessment task.
+
+apk file link
+
+https://drive.google.com/file/d/1MwWJozDz8haKYkK8_eSw_xSie_0mh_3r/view?usp=sharing
 
 ## Getting Started
 
